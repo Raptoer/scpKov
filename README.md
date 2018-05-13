@@ -1,5 +1,5 @@
 # scpkov
-A simple markov chain generator for the sci wiki
+A simple markov chain generator for the scp wiki
 
 Scp gatherer goes through the scp wiki and puts extracts of it into the input directory
 
